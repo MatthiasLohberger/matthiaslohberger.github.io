@@ -6,6 +6,7 @@ image: https://raw.githubusercontent.com/FelixWeichselgartner/Tetris/master/imag
 [GitHub-Repository](https://github.com/FelixWeichselgartner/Tetris)
 
 This project was a seminar work I did with 2 friends in my 6th semester for a course at my university. Together, we programmed our own version of the game Tetris. For the GUI we used the [Qt framework](https://www.qt.io/product/framework) .
+
 If you want to download our game, please click [here](https://github.com/FelixWeichselgartner/Tetris/releases/tag/1.0.1) .
 
 Here is a first look at the singleplayer: 
@@ -28,8 +29,9 @@ This is how the old program looked like:
 ![TetrisCli](https://raw.githubusercontent.com/FelixWeichselgartner/Tetris/Cli/Tetris.png)
 
 In the console we were not able to get a proper framerate (as console prints are very slow) and our squares were not actual squares and rather rectangles. That's why we programmed the newer version TetrisQt which I explained above.
-
-
+ 
+ 
+  
 ## What I learned in this seminar work:
 * building GUI with Qt
 

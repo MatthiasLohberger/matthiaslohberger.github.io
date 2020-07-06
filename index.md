@@ -7,7 +7,7 @@ image: https://raw.githubusercontent.com/FelixWeichselgartner/Tetris/master/imag
 
 This project was a seminar work I did with 2 friends in my 6th semester for a course at my university. Together, we programmed our own version of the game Tetris. For the GUI we used the [Qt framework](https://www.qt.io/product/framework) .
 
-If you want to download our game, please click [here](https://github.com/FelixWeichselgartner/Tetris/releases/tag/1.0.1) (This link leads you to my friends GitHub repository where we safed all files and captured the changes).
+If you want to download our game, please click [here](https://github.com/FelixWeichselgartner/Tetris/releases/tag/1.0.1) (This link leads you to my friends GitHub- Repository where we safed all files and captured the changes).
 
 Here is a first look at the singleplayer: 
 
